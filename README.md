@@ -6,7 +6,7 @@ The most popular front end framework
 
 <a href="http://www.bootcss.com/" target="_blank">Bootstrap中文网</a>
 
-<a href="https://github.com/search?utf8=%E2%9C%93&q=Bootstrap&type=">Github</a>
+<a href="https://github.com/twbs/bootstrap">Github</a>
 
 <img src="https://github.com/Eaaon/front-end-framework/blob/master/img/Bootstrap.JPG" width="880px" title="1.png"  alt=""/>
 
